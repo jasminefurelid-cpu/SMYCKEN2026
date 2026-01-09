@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TSJH3MD2');</script>
+<!-- End Google Tag Manager -->
+  <meta charset="UTF-8">
+  <title>Statement Earrings</title>
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TSJH3MD2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+  <header>
+    <h1>STATEMENT EARRINGS</h1>
+    <p>Bold. Feminine. Unapologetic.</p>
+  </header>
+
+  <main class="products">
+
+    <div class="card">
+      <img src="https://images.unsplash.com/photo-1600185365483-26d7a4cc7519" alt="Guldörhängen">
+      <h2>Golden Aura</h2>
+      <p>Handgjorda statement-örhängen i guldton</p>
+      <span>499 kr</span>
+      <button>Köp</button>
+    </div>
+
+    <div class="card">
+      <img src="https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f" alt="Silverörhängen">
+      <h2>Silver Muse</h2>
+      <p>Stora örhängen som lyfter varje outfit</p>
+      <span>459 kr</span>
+      <button>Köp</button>
+    </div>
+
+    <div class="card">
+      <img src="https://images.unsplash.com/photo-1618354691438-25bc04584c23" alt="Svarta örhängen">
+      <h2>Noir Drama</h2>
+      <p>För dig som vågar ta plats</p>
+      <span>529 kr</span>
+      <button>Köp</button>
+    </div>
+
+  </main>
+
+  <footer>
+    <p>© 2026 Statement Earrings</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
